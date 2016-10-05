@@ -1,24 +1,3 @@
-# README
+# clean-backbone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repository contains the implementation of Kevin Sylvestre's guide entitled "Setup a Clean Backbone JS App With Rails" which can be found [here](https://ksylvest.com/posts/2014-11-26/setup-a-clean-backbone-js-app-with-rails).
