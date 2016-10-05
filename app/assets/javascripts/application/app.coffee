@@ -30,7 +30,8 @@
   Models: {}
   Collections: {}
   Routers: {}
-  Views: {}
+  Views:
+    Tasks: {}
 
 _.extend App, Backbone.Events
 
