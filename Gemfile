@@ -46,3 +46,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'backbone-on-rails'
+gem 'handlebars_assets'
+gem 'hamlbars'
