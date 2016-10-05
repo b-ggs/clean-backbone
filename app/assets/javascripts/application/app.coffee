@@ -36,4 +36,5 @@
 _.extend App, Backbone.Events
 
 $ ->
+  new App.Routers.Tasks()
   Backbone.history.start pushState: true
